@@ -1,0 +1,7 @@
+*.pyc
+Base*
+CSS*
+JS*
+Default*
+Global*
+.DS_Store
